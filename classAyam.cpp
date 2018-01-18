@@ -24,4 +24,9 @@ int main(){
 	b.warnaBulu = "Coklat ";
 	c.warnaBulu = "Hitam ";
 	d.warnaBulu = "Putih ";
+	
+	cout<<"\n\t\t\tNAMA : Galuh Nurdianty\n";
+	cout<<"\t\t\tNPM  : 16630938\n";
+	cout<<"\t\t\tProgram Jenis-Jenis Ayam\n";
+	cout<<"------------------------------------------------------------------------------ \n";
 }

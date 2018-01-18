@@ -11,3 +11,17 @@ class ayam{
 		string warnaBulu;
 		string jenisAyam;
 };
+
+int main(){
+	ayam a,b,c,d;
+	
+	a.jenisAyam = "Ayam Kalkun ";
+	b.jenisAyam = "Ayam Petelur/Ras ";
+	c.jenisAyam = "Ayam Kampung ";
+	d.jenisAyam = "Ayam Kate ";
+
+	a.warnaBulu = "Burbon Red ";
+	b.warnaBulu = "Coklat ";
+	c.warnaBulu = "Hitam ";
+	d.warnaBulu = "Putih ";
+}
